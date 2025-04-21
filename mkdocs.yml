@@ -1,0 +1,11 @@
+site_name: 我的知识库
+theme:
+  name: material
+
+nav:
+  - 首页: index.md
+  - 指南:
+      - 简介: guide/intro.md
+      - 安装: guide/setup.md
+  - 参考:
+      - API: reference/api.md
